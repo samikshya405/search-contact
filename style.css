@@ -1,0 +1,28 @@
+ul li{
+    list-style: none;
+}
+.allContact{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.result{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.container{
+    width: 50%;
+    margin:auto;
+}
+.a{
+    width:60%;
+    background-color: green;
+    margin: auto;
+    
+}
+h1{
+    text-transform: capitalize;
+    margin-top: 20px ;
+}
